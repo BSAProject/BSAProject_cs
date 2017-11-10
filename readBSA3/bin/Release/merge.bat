@@ -1,0 +1,1 @@
+ILMerge.exe /t:exe /out:readBSA3_merged.exe readBSA3.exe TeeChart.Lite.dll
